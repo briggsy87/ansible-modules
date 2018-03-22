@@ -9,7 +9,7 @@ Current modules:
     - setup http redirect in IIS website
 
 To use these in your playbooks:
-Navigate to your playbooks rook directory and create a library folder if one doesn't already exist, then clone this repository:
+Navigate to your playbooks root directory and create a library folder if one doesn't already exist, then clone this repository:
 
 ```
 	mkdir library && cd library
